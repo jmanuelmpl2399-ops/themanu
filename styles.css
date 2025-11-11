@@ -22,7 +22,7 @@ button {
   cursor: pointer;
 }
 body {
-  background-image: url("../assets/IMG_6812.JPG");
+  background-image: url("../IMG_6812.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -34,3 +34,4 @@ body {
   right: 20px;   /* distancia desde la derecha */
   width: 120px;  /* tamaño de la imagen (ajústalo) */
 }
+
